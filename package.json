@@ -1,0 +1,34 @@
+{
+  "name": "bauy-id",
+  "version": "1.0.1",
+  "description": "aaa",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/h0aepth/galaxy-id.git"
+  },
+  "keywords": [
+    "ff"
+  ],
+  "author": "ff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/h0aepth/galaxy-id/issues"
+  },
+  "homepage": "https://github.com/h0aepth/galaxy-id#readme",
+  "dependencies": {
+    "galaxy-id": "^1.0.0",
+    "string-width": "^5.1.2",
+    "string-width-cjs": "npm:string-width@^4.2.0",
+    "strip-ansi": "^7.0.1",
+    "strip-ansi-cjs": "npm:strip-ansi@^6.0.1",
+    "wrap-ansi": "^8.1.0",
+    "wrap-ansi-cjs": "npm:wrap-ansi@^7.0.0"
+  },
+  "devDependencies": {
+    "next": "^1.0.0"
+  }
+}
